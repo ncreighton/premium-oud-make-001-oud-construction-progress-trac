@@ -1,0 +1,2 @@
+# premium-oud-make-001-oud-construction-progress-trac
+Tired of losing track of your oud’s delicate construction stages in a pile of sticky notes and forgotten measurements? The Oud Construction Progress Tracker brings the precision of project management to your luthier workshop.  This Notion template transforms your oud-building workflow into a clear, step-by-step system. It organizes every phase—from
